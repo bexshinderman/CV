@@ -54,6 +54,63 @@ Utilizing & contributing to internal documentation
 ## Education
 
 ### Otago Polytechnic        
-* #### Certificate in IT Level 4               2014
+* #### Certificate in IT Level 4                        2014
 
 * #### Bachelor of IT (BIT) 		         		 	2017 – 2020
+
+### Cisco
+* #### CCNA Routing and Switching: Scaling Networks     2019
+
+### Fortinet
+* #### NSE 2 Network Security Associate                 2020
+
+### Microsofft Azure
+* ### AZ-900 Microsoft Azure Fundementals               2021
+
+## Volunteering
+
+### IT Help Booth                                       2017
+### Age Concern Otago
+* Cellphone advice & app configuration
+* Providing general IT advice in clear & accessible language
+* Application & workflow demonstrations
+* Working in a small team
+
+### Class Representative                                 2017-2018
+### Otago Polytechnic, Dunedin
+
+* Facilitating a positive classroom environment & ensuring the wellbeing of my peers
+* Attending monthly meetings to plan and address concerns
+* Building relationships with fellow students& staff members
+* Acting as an escalation channel for student concerns
+* Working closely with Otago Polytech Students Association (OPSA)
+
+
+## Personal Bio
+
+* Recent Bachelor of Information Technology graduate from Otago Polytechnic
+* Keen interest in Linux, networking, cloud computing & systems administration
+* Hobbies include PC + Console gaming, anime & sailing
+* Fast & enthusiastic learner.
+
+## Referees
+
+### Michel Holtz
+* Team Leader, Bachelor of Information Technology Programme
+* Otago Polytechnic
+* Phone: 0274333662
+* Email: mholtz@op.ac.nz
+
+### John Steele
+* Group Leader, AskOtago
+* University of Otago
+* Phone: 64 21 279 2490
+* Email: john.steele@otago.ac.nz
+
+### Steve Dunn
+* Senior Service Representative
+* Student IT
+* University of Otago
+* Phone: 64 3 479 5171
+* Email: steve.dunn@otago.ac.nz
+
