@@ -77,6 +77,12 @@ Utilizing & contributing to internal documentation
 * Working in a small team
 
 ### Class Representative                                 2017-2018
+
+* Facilitating a positive classroom environment & ensuring the wellbeing of my peers
+* Attending monthly meetings to plan and address concerns
+* Building relationships with fellow students& staff members
+* Acting as an escalation channel for student concerns
+* Working closely with Otago Polytech Students Association (OPSA) 
 ### Otago Polytechnic, Dunedin
 
 * Facilitating a positive classroom environment & ensuring the wellbeing of my peers
