@@ -1,15 +1,23 @@
 # Bex Shinderman
 <div>
 <a href="me@bexshinderman.id"> me@bexshinderman.id </a> 
-02108417618 
+
 <br>
 <a href="https://www.linkedin.com/in/bex-shinderman-2a72231ba"> My Linkedin </a>
+<br>
 </div>
 
+## Personal Bio
+
+
+* Recent Bachelor of Information Technology graduate from Otago Polytechnic
+* Keen interest in Linux, networking, cloud computing & systems administration
+* Hobbies include PC + Console gaming, anime & sailing
+* Fast & enthusiastic learner.
 ## Employment history
 ### Senior IT Service Representative 	2021 - Present
-### Otago University, Dunedin 
-<br>
+#### Otago University, Dunedin 
+
 
 * Assisting staff and students with software, web applications & network resources used within the University 
 * Providing friendly technical support to a wide range of users via email, phone, remote desktop & face-to-face interactions
@@ -22,7 +30,7 @@ Utilizing & contributing to internal documentation
 * Building relationships with neighboring departments and fellow colleagues
 
 ### Student IT Advisor				2019 – 2020
-### Otago University, Dunedin
+#### Otago University, Dunedin
 
 * Assisting students with technical & general enquiries and escalating when appropriate
 * Front line technical support via face-to-face, email & chat based interactions
@@ -33,7 +41,7 @@ Utilizing & contributing to internal documentation
 * Working with other university departments such as providing end-user support for the Office 365 migrations & performing testing for Desktop Support. 
 
 ### Student Ambassador           		2018 – 2020
-### Otago Polytechnic, Dunedin
+#### Otago Polytechnic, Dunedin
 
 * Represent Otago Polytech at public events and symposiums
 * Advise prospective students and their families about student experience at OP
@@ -44,7 +52,7 @@ Utilizing & contributing to internal documentation
 * Graduation gown room order processing
 
 ### Night-fill staff                               		2013 – 2015
-### Centre City New World, Dunedin
+#### Centre City New World, Dunedin
 
 *	Stocking shelves and displays
 *	Retaining product information
@@ -70,53 +78,23 @@ Utilizing & contributing to internal documentation
 ## Volunteering
 
 ### IT Help Booth                                       2017
-### Age Concern Otago
+#### Age Concern Otago
 * Cellphone advice & app configuration
 * Providing general IT advice in clear & accessible language
 * Application & workflow demonstrations
 * Working in a small team
 
 ### Class Representative                                 2017-2018
+#### Otago Polytechnic, Dunedin
 
 * Facilitating a positive classroom environment & ensuring the wellbeing of my peers
 * Attending monthly meetings to plan and address concerns
 * Building relationships with fellow students& staff members
 * Acting as an escalation channel for student concerns
 * Working closely with Otago Polytech Students Association (OPSA) 
-### Otago Polytechnic, Dunedin
-
-* Facilitating a positive classroom environment & ensuring the wellbeing of my peers
-* Attending monthly meetings to plan and address concerns
-* Building relationships with fellow students& staff members
-* Acting as an escalation channel for student concerns
-* Working closely with Otago Polytech Students Association (OPSA)
 
 
-## Personal Bio
 
-* Recent Bachelor of Information Technology graduate from Otago Polytechnic
-* Keen interest in Linux, networking, cloud computing & systems administration
-* Hobbies include PC + Console gaming, anime & sailing
-* Fast & enthusiastic learner.
 
-## Referees
 
-### Michel Holtz
-* Team Leader, Bachelor of Information Technology Programme
-* Otago Polytechnic
-* Phone: 0274333662
-* Email: mholtz@op.ac.nz
-
-### John Steele
-* Group Leader, AskOtago
-* University of Otago
-* Phone: 64 21 279 2490
-* Email: john.steele@otago.ac.nz
-
-### Steve Dunn
-* Senior Service Representative
-* Student IT
-* University of Otago
-* Phone: 64 3 479 5171
-* Email: steve.dunn@otago.ac.nz
 
