@@ -18,7 +18,7 @@
 * Troubleshooting software, operating system & networking issues on university owned and personal user devices
 * Administration of user accounts and security groups via Exchange Admin Centre & Active Directory
 * Escalating requests to appropriate departments when needed
-Utilizing & contributing to internal documentation 
+* Utilizing & contributing to internal documentation 
 * Building relationships with neighboring departments and fellow colleagues
 
 ### Student IT Advisor				2019 – 2020

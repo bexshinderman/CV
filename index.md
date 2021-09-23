@@ -8,16 +8,14 @@
 </div>
 
 ## Personal Bio
-
-
 * Recent Bachelor of Information Technology graduate from Otago Polytechnic
 * Keen interest in Linux, networking, cloud computing & systems administration
 * Hobbies include PC + Console gaming, anime & sailing
 * Fast & enthusiastic learner.
+
 ## Employment history
 ### Senior IT Service Representative 	2021 - Present
 #### Otago University, Dunedin 
-
 
 * Assisting staff and students with software, web applications & network resources used within the University 
 * Providing friendly technical support to a wide range of users via email, phone, remote desktop & face-to-face interactions
@@ -26,7 +24,7 @@
 * Troubleshooting software, operating system & networking issues on university owned and personal user devices
 * Administration of user accounts and security groups via Exchange Admin Centre & Active Directory
 * Escalating requests to appropriate departments when needed
-Utilizing & contributing to internal documentation 
+* Utilizing & contributing to internal documentation 
 * Building relationships with neighboring departments and fellow colleagues
 
 ### Student IT Advisor				2019 – 2020
@@ -73,7 +71,7 @@ Utilizing & contributing to internal documentation
 * #### NSE 2 Network Security Associate                 2020
 
 ### Microsofft Azure
-* ### AZ-900 Microsoft Azure Fundementals               2021
+* #### AZ-900 Microsoft Azure Fundementals               2021
 
 ## Volunteering
 
@@ -92,6 +90,8 @@ Utilizing & contributing to internal documentation
 * Building relationships with fellow students& staff members
 * Acting as an escalation channel for student concerns
 * Working closely with Otago Polytech Students Association (OPSA) 
+
+
 
 
 
